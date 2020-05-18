@@ -3,20 +3,20 @@ Weighting: 50%.
 
 Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid Kaharuba.
 
-### Problem Definition
+### Problem Definition (Bidhan)
 
-### Objectives and the Problem.
+### Objectives and the Problem. (Bidhan) 
 
-### List of Stakeholders.
+### List of Stakeholders. (Bidhan)
 
-### What is our Design Thinking Approach?
+### What is our Design Thinking Approach? (Michael)
 #### What, How and Why?
 #### Empathy Map
 
-### Agile Methodology (Scrum). What is it? And how did we use it?
+### Agile Methodology (Scrum). What is it? And how did we use it? (Bilal)
 
-### Assumptions mamde in the system Analysis
+### Assumptions made in the system analysis. (Bilal)
 
-### Proposed workproducts and Models
+### Proposed workproducts and Models (Agid)
 
-### Competitive Advantages
+### Competitive Advantages (Tony)
