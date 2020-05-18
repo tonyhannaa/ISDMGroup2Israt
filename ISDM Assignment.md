@@ -1,5 +1,6 @@
-# Information System Methodlogies Assignment 1.
+# Information System Methodlogies Assignment.
 Weighting: 50%.
+
 Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid Kaharuba.
 
 ### Problem Definition
