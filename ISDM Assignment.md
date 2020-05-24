@@ -6,6 +6,15 @@ Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid 
 ### Problem Definition (Bidhan)
 hello BILAL
 aaaaa
+ 2. Identify stakeholders.
+
+
+Relationship Managers
+travel company.
+ Employees 
+Customers
+Voice Response unit
+
 ### Objectives and the Problem. (Bidhan) 
 
 ### List of Stakeholders. (Bidhan)
