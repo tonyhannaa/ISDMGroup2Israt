@@ -26,14 +26,20 @@ Objective is to develop IS to  improve the operational efficiency of in house ca
 That will adjust the call flow rate to (RM), the IS should also provide assistance To RM in serving in serving theri customers
 Match RM and customers according to skills and customer profiles
 
-Complied by varying numbers and nature of the holiday 
+Outline the objectives of the project and 
+The objective of the project is to develop an information system which will help to improve the efficiency of the operation of the in-house call management centre of the travel company. The purpose of the information system is to provide assistance and match the Relationship Managers with their end customers on the basis of their skills and customer profiles. The system should be able to adjust call flow rate to suitable RMs so they can perform good sales on holiday packages. The aim of the system to provide assistance to RMs is to make sure that the call flow control and call routing for both inbound and outbound calls are improved and dynamic. 
 
-Call flow rate  Can be improved by matching customers based on Rm performance and product knowledge.
 
-For example, in selling particular travel packages, the system would do well in matching end-customers to well informed RMs with appropriate knowledge about the destination and its tradition
 
 
 ### List of Stakeholders. (Bidhan)
+Relationship Managers
+Travel Company 
+Employees
+Customers
+Voice Response Unit 
+
+
 
 ### What is our Design Thinking Approach? (Michael)
 #### What, How and Why?
