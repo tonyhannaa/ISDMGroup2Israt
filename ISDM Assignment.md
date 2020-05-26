@@ -4,9 +4,11 @@ Weighting: 50%.
 Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid Kaharuba.
 
 ### Problem Definition (Bidhan)
-hello BILAL
-aaaaa
 
+Problem
+Problem of the system
+
+During busy times customers may hang up in the they suffer long wait time.
 
 ### Objectives and the Problem. (Bidhan) 
 
