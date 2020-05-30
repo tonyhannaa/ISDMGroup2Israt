@@ -28,9 +28,7 @@ Relationship Managers
 Travel Company 
 Employees
 Customers
-Voice Response Unit 
-
-Executive Summary 
+ 
 
 
 Executive Summary 
@@ -45,6 +43,7 @@ The approach to create the information system includes numerous system developme
 Design Thinking 
 
 The combination of critical and creative ideas can help improve information systems in dynamic ways. It can find the roots of the problem occurring in the system  as well as help to develop new ideas. The approach always encapsulates customers and is based on their needs which will lead in the development of a customer based IS. 
+
 The five stages of design thinking process is as follows;
 
 Empathize
@@ -70,7 +69,7 @@ After analysing through the requirements the team can come to a conclusion that 
 
 Considering the identification of the problems encountered in the second stage, the elimination of these issues will enable the company to achieve its goals. This will help the customers to remain in the call, a relationship manager will be available to serve them and a potential sale can be made whereas the company would have lost a customer using their old system. The new system implementation would also reduce the call time or engage customers with the right relationship manager, in this way the customer will not hang up on the call. 
 
-Ideate 
+
 
 
 
