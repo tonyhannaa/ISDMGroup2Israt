@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2020-05-30T09:28:38.841Z" agent="5.0 (X11)" etag="XDNKUGD3mY8D4fZT6n2W" version="13.1.5" type="google">
+<mxfile host="app.diagrams.net" modified="2020-05-30T12:41:35.493Z" agent="5.0 (X11)" etag="b7z48_fBeUV1A8sHf5bs" version="13.1.5" type="google">
   <diagram id="FHzlIummRNK7jv8vVjcl" name="Page-1">
     <mxGraphModel dx="2272" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ab97r_Vl49ZERKvlMxkT-6" value="CMC System" style="swimlane;startSize=20;" parent="1" vertex="1">
+        <mxCell id="Ab97r_Vl49ZERKvlMxkT-6" value="Automatic Call Distributor" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="260" height="960" as="geometry" />
         </mxCell>
         <mxCell id="Ab97r_Vl49ZERKvlMxkT-2" value="Generate skill score for customer" style="rounded=1;whiteSpace=wrap;html=1;" parent="Ab97r_Vl49ZERKvlMxkT-6" vertex="1">
@@ -39,6 +39,12 @@
         <mxCell id="Ab97r_Vl49ZERKvlMxkT-35" value="Pick customer with highest score" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="Ab97r_Vl49ZERKvlMxkT-6" vertex="1">
           <mxGeometry x="67" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0zcORNeNckMN2gUd-H98-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ab97r_Vl49ZERKvlMxkT-6">
+          <mxGeometry x="86" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0zcORNeNckMN2gUd-H98-2" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ab97r_Vl49ZERKvlMxkT-6">
+          <mxGeometry x="221" y="548" width="30" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Ab97r_Vl49ZERKvlMxkT-7" value="Customer" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="280" height="960" as="geometry" />
         </mxCell>
@@ -57,7 +63,7 @@
         <mxCell id="Ab97r_Vl49ZERKvlMxkT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ab97r_Vl49ZERKvlMxkT-11" target="Ab97r_Vl49ZERKvlMxkT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ab97r_Vl49ZERKvlMxkT-14" value="Interactive Voice Unit" style="swimlane;startSize=20;" parent="1" vertex="1">
+        <mxCell id="Ab97r_Vl49ZERKvlMxkT-14" value="Interactive Voice Response Unit" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="750" y="110" width="290" height="960" as="geometry" />
         </mxCell>
         <mxCell id="Ab97r_Vl49ZERKvlMxkT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Ab97r_Vl49ZERKvlMxkT-14" source="Ab97r_Vl49ZERKvlMxkT-17" target="Ab97r_Vl49ZERKvlMxkT-19" edge="1">
@@ -95,8 +101,7 @@
             <mxPoint x="420" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="740" />
-              <mxPoint x="400" y="740" />
-              <mxPoint x="400" y="696" />
+              <mxPoint x="375" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2020-05-30T09:28:53.759Z" agent="5.0 (X11)" etag="ErdyzzFqS08bSLbqzORw" version="13.1.5" type="google">
+<mxfile host="app.diagrams.net" modified="2020-05-30T12:41:15.832Z" agent="5.0 (X11)" etag="0sdTVnRLbE8lZ8PyCXxi" version="13.1.5" type="google">
   <diagram id="mXwmaeSBaAMaYtTI4Szi" name="Page-1">
     <mxGraphModel dx="1422" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,40 +8,48 @@
         <mxCell id="Traie_iXh-oZrJd1x9CN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Traie_iXh-oZrJd1x9CN-7" target="Traie_iXh-oZrJd1x9CN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQzV6uIMA4w9KI60DleH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Traie_iXh-oZrJd1x9CN-9" target="AQzV6uIMA4w9KI60DleH-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-9" value="Receive customer details with guidelines and script" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Traie_iXh-oZrJd1x9CN-14" value="RM" style="swimlane;startSize=20;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="280" height="760" as="geometry" />
         </mxCell>
         <mxCell id="Traie_iXh-oZrJd1x9CN-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="Traie_iXh-oZrJd1x9CN-14" vertex="1">
-          <mxGeometry x="140" y="660" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="660" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AQzV6uIMA4w9KI60DleH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Traie_iXh-oZrJd1x9CN-14" source="AQzV6uIMA4w9KI60DleH-1" target="Traie_iXh-oZrJd1x9CN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQzV6uIMA4w9KI60DleH-1" value="Target customers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Traie_iXh-oZrJd1x9CN-14">
-          <mxGeometry x="95" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="AQzV6uIMA4w9KI60DleH-1" value="Propose a product to a customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Traie_iXh-oZrJd1x9CN-14">
+          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-15" value="CMC System" style="swimlane;startSize=20;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="480" y="60" width="280" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" source="Traie_iXh-oZrJd1x9CN-2" target="Traie_iXh-oZrJd1x9CN-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
-          <mxGeometry x="125" y="70" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-6" value="&lt;div&gt;Generate Customer Target List&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
+        <mxCell id="AQzV6uIMA4w9KI60DleH-4" value="Dial a customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Traie_iXh-oZrJd1x9CN-14">
           <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-7" value="Retrieve Customer details" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
+        <mxCell id="Traie_iXh-oZrJd1x9CN-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" parent="Traie_iXh-oZrJd1x9CN-14" vertex="1">
+          <mxGeometry x="125" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Traie_iXh-oZrJd1x9CN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Traie_iXh-oZrJd1x9CN-14" source="Traie_iXh-oZrJd1x9CN-2" target="AQzV6uIMA4w9KI60DleH-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Traie_iXh-oZrJd1x9CN-9" value="Receive customer details with guidelines and script" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-14" vertex="1">
+          <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Traie_iXh-oZrJd1x9CN-14" source="Traie_iXh-oZrJd1x9CN-9" target="AQzV6uIMA4w9KI60DleH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Traie_iXh-oZrJd1x9CN-15" value="Automatic Call Distributor" style="swimlane;startSize=20;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="60" width="280" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Traie_iXh-oZrJd1x9CN-6" value="Retrieve number from customer target list" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Traie_iXh-oZrJd1x9CN-7" value="Retrieve customer details" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
           <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Traie_iXh-oZrJd1x9CN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" source="Traie_iXh-oZrJd1x9CN-6" target="Traie_iXh-oZrJd1x9CN-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQzV6uIMA4w9KI60DleH-4" target="Traie_iXh-oZrJd1x9CN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
