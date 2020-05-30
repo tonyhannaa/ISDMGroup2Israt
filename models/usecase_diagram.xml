@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2020-05-30T09:27:03.127Z" agent="5.0 (X11)" etag="2UinQaClLm1BbIn0bG5E" version="13.1.5" type="google">
+<mxfile host="app.diagrams.net" modified="2020-05-30T12:34:50.408Z" agent="5.0 (X11)" etag="VjTWBFZMrfwdA2o7wnbP" version="13.1.5" type="google">
   <diagram id="HjHGvcZqCMu9g7qP25QO" name="Page-1">
     <mxGraphModel dx="1422" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,9 +25,6 @@
         </mxCell>
         <mxCell id="clp9T-yKM8bfhSlUVqCE-27" value="Serve Customer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="170" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="clp9T-yKM8bfhSlUVqCE-31" value="Voice Response&lt;br&gt;Unit" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clp9T-yKM8bfhSlUVqCE-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="1" source="clp9T-yKM8bfhSlUVqCE-27" target="clp9T-yKM8bfhSlUVqCE-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,11 +64,11 @@
         <mxCell id="clp9T-yKM8bfhSlUVqCE-55" value="Serve Customer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="290" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KOddJ8mxLwKMD27DZ6pt-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="clp9T-yKM8bfhSlUVqCE-57" target="clp9T-yKM8bfhSlUVqCE-52" edge="1">
+        <mxCell id="xX0nMQpOGA8roURT3vxo-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="clp9T-yKM8bfhSlUVqCE-57" target="clp9T-yKM8bfhSlUVqCE-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="clp9T-yKM8bfhSlUVqCE-57" value="Voice Response&lt;br&gt;Unit" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="720" y="390" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
