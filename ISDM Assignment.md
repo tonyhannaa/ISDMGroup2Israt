@@ -5,23 +5,6 @@ Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid 
 
 ### Problem Definition (Bidhan)
 
-Problem
-Problem of the system
-
-During busy times customers may hang up in the they suffer long wait time.
-
-### Objectives and the Problem. (Bidhan) 
-
-You’ll be using Design Thinking and Agile Scrum to develop the system
-
-
-A major travel company would like to develop an information system to improve the operation of their in-house call management centre (CMC). 
-
-
-
-
-
-
 
 ### List of Stakeholders. (Bidhan)
 Relationship Managers
@@ -33,11 +16,17 @@ Customers
 
 Executive Summary 
 
+The purpose of this report is to outline the strategies involved in improving an existing system for a major travel company. The project intends to improve the operation of their in-house calls using various techniques mentioned below in the project. The first stage of the projects is done by using design thinking analysis. This stage helps to understand the requirements and problems associated with the current system and suggests the changes required. An empathy map is also used in the project to analyze the deeper insight for the Relationship manager and customers. Relationship managers and customers are identified as a major stakeholder in this project. 
+The second part of the project gives an idea of the methodology, which is used to enhance the development of the project. 
+
+The third part of the project contains use case diagrams, activity diagrams, class diagrams and collaboration diagrams. These diagrams help the stakeholders to understand better the process and development strategies as well as support the development team to make a better prototype. The final part explains the advantages and disadvantages of the use of the new system. It underlines the cost-minimizing factors as well as utilizing opportunities in various ways that can help to attract customers.
 
 Project Objectives
+
 The objective of the project is to develop an information system which will help to improve the efficiency of the operation of the in-house call management centre of the travel company using agile or scrum technology. The purpose of the information system is to provide assistance and match the Relationship Managers with their end customers based on their skills and customer profiles. The system should be able to adjust the call flow rate to suitable RMs so they can perform good sales on holiday packages. The aim of the system to assist RMs is to make sure that the call flow control and call routing for both inbound and outbound calls are improved and dynamic, respectively. The system should be able to create profiles for customers and RMs. The strategy is to match the two entities based on the profile. Creating a profile can include necessary information like age, sex, culture, language proficiency. It could also include social and cultural segments depending on the postcodes and last name. The approach to creating the information system includes numerous system development methodologies that we have practised in our subject. Some of the approaches are like using agile methodologies, design thinking.
 
 Design Thinking
+
 The combination of critical and creative ideas can help improve information systems in dynamic ways. It can find the roots of the problem occurring in the system as well as help to develop new ideas. The approach always encapsulates customers and is based on their needs which will lead in the development of a customer based IS.
 The five stages of the design thinking process are as follows;
 
