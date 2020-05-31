@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2020-05-31T04:46:20.958Z" agent="5.0 (X11)" etag="SWtSQa6LZ1VbIRVyc4Ew" version="13.1.5" type="google">
+<mxfile host="app.diagrams.net" modified="2020-05-31T04:51:44.038Z" agent="5.0 (X11)" etag="jWiEcbZCcT6WClZ03RNJ" version="13.1.5" type="google">
   <diagram id="mXwmaeSBaAMaYtTI4Szi" name="Page-1">
-    <mxGraphModel dx="1422" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,6 @@
         </mxCell>
         <mxCell id="Traie_iXh-oZrJd1x9CN-14" value="RM" style="swimlane;startSize=20;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="280" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="Traie_iXh-oZrJd1x9CN-14" vertex="1">
-          <mxGeometry x="125" y="660" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AQzV6uIMA4w9KI60DleH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Traie_iXh-oZrJd1x9CN-14" source="AQzV6uIMA4w9KI60DleH-1" target="Traie_iXh-oZrJd1x9CN-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQzV6uIMA4w9KI60DleH-1" value="Propose a product to a customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Traie_iXh-oZrJd1x9CN-14">
           <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
@@ -40,7 +34,7 @@
         <mxCell id="Traie_iXh-oZrJd1x9CN-15" value="CMC" style="swimlane;startSize=20;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="480" y="60" width="280" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="Traie_iXh-oZrJd1x9CN-6" value="Retrieve number from customer target list" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
+        <mxCell id="Traie_iXh-oZrJd1x9CN-6" value="Retrieve customer from customer target list" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
           <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Traie_iXh-oZrJd1x9CN-7" value="Retrieve customer details" style="rounded=1;whiteSpace=wrap;html=1;" parent="Traie_iXh-oZrJd1x9CN-15" vertex="1">
@@ -50,6 +44,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQzV6uIMA4w9KI60DleH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQzV6uIMA4w9KI60DleH-4" target="Traie_iXh-oZrJd1x9CN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-6" value="Customer" style="swimlane;startSize=20;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="60" width="280" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="AQzV6uIMA4w9KI60DleH-6">
+          <mxGeometry x="125" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AQzV6uIMA4w9KI60DleH-6" source="AQzV6uIMA4w9KI60DleH-9" target="AQzV6uIMA4w9KI60DleH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-9" value="Receives product proposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AQzV6uIMA4w9KI60DleH-6">
+          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQzV6uIMA4w9KI60DleH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQzV6uIMA4w9KI60DleH-1" target="AQzV6uIMA4w9KI60DleH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
