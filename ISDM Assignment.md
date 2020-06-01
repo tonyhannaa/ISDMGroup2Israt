@@ -14,7 +14,7 @@ The third part of the project contains use case diagrams, activity diagrams, cla
 
 The objective of the project is to develop an information system which will help to improve the efficiency of the operation of the in-house call management centre of the travel company using agile or scrum technology. The purpose of the information system is to provide assistance and match the Relationship Managers with their end customers based on their skills and customer profiles. The system should be able to adjust the call flow rate to suitable RMs so they can perform good sales on holiday packages. The aim of the system to assist RMs is to make sure that the call flow control and call routing for both inbound and outbound calls are improved and dynamic, respectively. The system should be able to create profiles for customers and RMs. The strategy is to match the two entities based on the profile. Creating a profile can include necessary information like age, sex, culture, language proficiency. It could also include social and cultural segments depending on the postcodes and last name. The approach to creating the information system includes numerous system development methodologies that we have practised in our subject. Some of the approaches are like using agile methodologies, design thinking.
 
-### List of Stakeholders. (Bidhan)
+### List of Stakeholders.
 Stakeholders |
 ------------ |
 Relationship Managers |
