@@ -49,7 +49,7 @@ Considering the identification of the problems encountered in the second stage, 
 ### Empathy Map
 
 <p align="center">
-<img src="/models/cCustomer%20EM.jpg">
+<img src="/models/Customer%20EM.jpg">
 </p>
 
 ### Agile Methodology and Assumptions made in the System Analysis
