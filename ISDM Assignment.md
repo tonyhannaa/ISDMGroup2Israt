@@ -47,8 +47,9 @@ After analyzing through the requirements, the team can come to a conclusion that
 Considering the identification of the problems encountered in the second stage, the elimination of these issues will enable the company to achieve its goals. This will help the customers to remain in the call, a relationship manager will be available to serve them, and a potential sale can be made whereas the company would have lost a customer using their old system. The new system implementation would also reduce the call time or engage customers with the right relationship manager; in this way, the customer will not hang up on the call.
 
 ### Empathy Map
-![Customers](/models/Customer%20EM.jpg)
-
+<p align="center">
+<img src="/models/cCustomer%20EM.jpg">
+</p>
 ### Agile Methodology and Assumptions made in the System Analysis
 
 Agile methodology is the process in which a team manages a project by breaking it up into smaller more manageable parts and constantly collaborates with stakeholders of the project. The project improves in every iteration. Scrum is the method that has been utilised in this project. Scrum is the most popular agile methodology used [] and assumes that plans need to be changed regularly. Therefore, scrum was the agile methodology chosen for this project. Methods used in this project were daily scrum meetings via messenger chat and calls, everyone would speak about wat they completed, will complete and what is hindering their progress. Furthermore, sprint planning and retrospectives was implemented in the project. At the start of each week the team would be designated goals and on Thursday the team would have a meeting with the stakeholders, to assess the changes in the project and present new ideas.
@@ -61,24 +62,31 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 <p align="center">
 <img src="/models/class_diagram.png">
 </p>
+
 #### Serve Class Diagram
 <p align="center">
 <img src="/models/serve_customers_activity_diagram.png">
 </p>
+
 #### Serve Customer Collaboration
 <p align="center">
 <img src="/models/serve_customer_collaboration_diagramdrawio.png">
+</p>
 
 #### Target Customer Collaboration
 <p align="center">
 <img src="/models/target_customer_collaboration_diagram.png">
 </p>
+
 #### Target Customer Activity
 <p align="center">
 <img src="/models/target_customers_activity_diagram.png">
 </p>
+
 #### User Case Diagram
+
 <p align="center">
 <img src="/models/usecase_diagram.png">
 </p>
+
 ### Competitive Advantages (Tony)
