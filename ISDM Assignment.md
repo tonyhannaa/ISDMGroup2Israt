@@ -1,7 +1,7 @@
 # Information System Methodlogies Assignment.
 Weighting: 50%.
 
-Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Agid Kaharuba.
+Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Razin Agida Kaharuba.
 
 ## Executive Summary 
 
@@ -35,10 +35,15 @@ Test
 ### Empathize
 The first stage of the design thinking process starts by understanding the needs of the stakeholders. All the requirements should also be enlisted and summarized. The goal to understand the relationship between RM and customers is very vital in this stage. The key to a successful system is to match the profile correctly. This stage in the entire process is vital for successful development. The process includes end not only customers requirements but also the other stakeholders like relationship managers, employees who are involved in the project. It helps the development team to understand the requirements as well as expectations better. While gathering requirements, the team can create profiles which can later be used to match the relationship managers profile with the end customers. The profile can include age, sex, culture, product knowledge, language. An empathy map is drawn below to draw the requirements of the stakeholders of the travel company.
 
-Customers 
+Customers
 Employees 
 Relationship managers 
 Travel Company
+
+<p align="center">
+<img src="/models/Customer%20EM.jpg">
+</p>
+
 
 ### Define the problem
 
@@ -46,11 +51,6 @@ The first stage of the design thinking deals with the expectation and requiremen
 After analyzing through the requirements, the team can come to a conclusion that it is vital that the new system eliminates customers hanging up the calls at busy times. This will not only keep end customers happy but will help to increase sales and increase the rate of customers coming back to the travel company to book holidays. The long wait time is a major factor to be considered that leads to customer hanging up calls. The IS should be able to reduce the wait time, so the customers do not have to face any delays. The system should also be able to match the right Relationship manager to the customer. This will save time and can build a good conversation for selling the product.
 Considering the identification of the problems encountered in the second stage, the elimination of these issues will enable the company to achieve its goals. This will help the customers to remain in the call, a relationship manager will be available to serve them, and a potential sale can be made whereas the company would have lost a customer using their old system. The new system implementation would also reduce the call time or engage customers with the right relationship manager; in this way, the customer will not hang up on the call.
 
-### Empathy Map
-
-<p align="center">
-<img src="/models/Customer%20EM.jpg">
-</p>
 
 ### Agile Methodology and Assumptions made in the System Analysis
 
