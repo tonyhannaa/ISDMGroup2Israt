@@ -47,10 +47,6 @@ The first stage of the design thinking deals with the expectation and requiremen
 After analyzing through the requirements, the team can come to a conclusion that it is vital that the new system eliminates customers hanging up the calls at busy times. This will not only keep end customers happy but will help to increase sales and increase the rate of customers coming back to the travel company to book holidays. The long wait time is a major factor to be considered that leads to customer hanging up calls. The IS should be able to reduce the wait time, so the customers do not have to face any delays. The system should also be able to match the right Relationship manager to the customer. This will save time and can build a good conversation for selling the product.
 Considering the identification of the problems encountered in the second stage, the elimination of these issues will enable the company to achieve its goals. This will help the customers to remain in the call, a relationship manager will be available to serve them, and a potential sale can be made whereas the company would have lost a customer using their old system. The new system implementation would also reduce the call time or engage customers with the right relationship manager; in this way, the customer will not hang up on the call.
 
-
-
-
-
 ### What is our Design Thinking Approach? (Michael)
 
 
@@ -67,16 +63,22 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 
 ### Proposed workproducts and Models (Agid)
 
+#### Class Diagram
 ![class diagram](/models/class_diagram.jpg)
 
-![class diagram](/models/serve_customer_activity_diagram.jpg)
+#### Serve Class Diagram
+![class diagram](/models/serve_customer_collaboration_diagramdrawio.png)
 
-![serve customer collaboration](/models/serve_customer_collaboration.jpg)
+#### Serve Customer Collaboration
+![serve customer collaboration](/models/serve_customer_collaboration_diagramdrawio.png)
 
-![class diagram](/models/target_customer_collaboration.jpg)
+#### Target Customer Collaboration
+![target customer collab](/models/serve_customers_activity_diagram.png.png)
 
-![class diagram](/models/target_customers_activity_diagram.png.jpg)
+#### Target Customer Activity
+![target customer activity](/models/target_customer_collaboration_diagram.png)
 
-![class diagram](/models/usecacse_diagram.png.jpg)
+#### User Case Diagram
+![user case diagram](/models/usecase_diagram.png)
 
 ### Competitive Advantages (Tony)
