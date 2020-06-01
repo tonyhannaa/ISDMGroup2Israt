@@ -64,19 +64,19 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 ### Proposed workproducts and Models (Agid)
 
 #### Class Diagram
-![class diagram](/models/class_diagram.jpg)
+![class diagram](/models/class_diagram.png)
 
 #### Serve Class Diagram
-![class diagram](/models/serve_customer_collaboration_diagramdrawio.png)
+![Serve class diagram](/models/serve_customers_activity_diagram.png)
 
 #### Serve Customer Collaboration
 ![serve customer collaboration](/models/serve_customer_collaboration_diagramdrawio.png)
 
 #### Target Customer Collaboration
-![target customer collab](/models/serve_customers_activity_diagram.png.png)
+![target customer collab](/models/target_customer_collaboration_diagram.png)
 
 #### Target Customer Activity
-![target customer activity](/models/target_customer_collaboration_diagram.png)
+![target customer activity](/models/target_customers_activity_diagram.png)
 
 #### User Case Diagram
 ![user case diagram](/models/usecase_diagram.png)
